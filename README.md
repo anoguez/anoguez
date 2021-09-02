@@ -11,19 +11,20 @@
 
  <div align="center">
   <a href="https://github.com/anoguez">
-    <img height="150em" src="https://github-readme-stats-anoguez.vercel.app//api?username=anoguez&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,contribs&border_color=61dafb&hide_border=true"/>
-    <img height="150em" src="https://github-readme-stats-anoguez.vercel.app//api/top-langs/?username=anoguez&layout=compact&langs_count=7&theme=react&border_color=61dafb&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats-anoguez.vercel.app//api?username=anoguez&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,contribs&border_color=61dafb&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats-anoguez.vercel.app//api/top-langs/?username=anoguez&layout=compact&langs_count=7&theme=react&border_color=61dafb&hide_border=true"/>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoguez&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=anoguez&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+     <img height="160em" alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anoguez&custom_title=Activity&theme=react-dark&bg_color=20232a&hide_border=true" />
     </a>
   </a>
 </div>
  
  
 
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
- <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anoguez&custom_title=Activity&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a> -->
+
  
   
 <div align="center" style="display: inline_block"><br>
