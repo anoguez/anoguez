@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   Hello World!! 👋
 </h1>
@@ -13,8 +11,12 @@
 
  <div align="center">
   <a href="https://github.com/anoguez">
-  <img height="150em" src="https://github-readme-stats-anoguez.vercel.app//api?username=anoguez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,contribs"/>
-  <img height="150em" src="https://github-readme-stats-anoguez.vercel.app//api/top-langs/?username=anoguez&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats-anoguez.vercel.app//api?username=anoguez&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,contribs&border_color=61dafb&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats-anoguez.vercel.app//api/top-langs/?username=anoguez&layout=compact&langs_count=7&theme=react&border_color=61dafb&hide_border=true"/>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoguez&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+  </a>
 </div>
  
  
