@@ -1,10 +1,15 @@
 ### Hello World!! 👋
 
+
+ 🇧🇷 Brazilian <br/>
+ 🇦🇺 Living in Brisbane, Australia
+
  <div>
   <a href="https://github.com/anoguez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoguez&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoguez&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=anoguez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoguez&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ngz-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
