@@ -11,9 +11,9 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anoguez&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
      <img height="150em" alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anoguez&custom_title=Activity&theme=react-dark&bg_color=20232a&hide_border=true" />
-    </a>
+    </a> -->
   </a>
 </div>
  
